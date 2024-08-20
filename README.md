@@ -1,7 +1,3 @@
-Aqui está um modelo de README que você pode usar para documentar seus conhecimentos e aprendizados sobre Next.js:
-
----
-
 # 📘 Next.js
 
 Este README documenta os principais conceitos e práticas que aprendi ao explorar o Next.js, um framework construído sobre React.
