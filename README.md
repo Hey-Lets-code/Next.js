@@ -19,7 +19,7 @@ Este README documenta os principais conceitos e práticas que aprendi ao explora
 
 ## Introdução
 
-O **Next.js** é uma extensão do React que facilita o desenvolvimento de aplicações web que combinam a interatividade de sites dinâmicos com a performance de sites estáticos. Aprender Next.js me permitiu explorar novas possibilidades de otimização e organização de projetos front-end.
+O **Next.js** é uma extensão do React que facilita o desenvolvimento de aplicações web que combinam a interatividade de sites dinâmicos com a performance de sites estáticos.
 
 ## Instalação e Configuração
 
